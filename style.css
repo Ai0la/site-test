@@ -1,0 +1,36 @@
+.container {
+	width: 80%;
+	margin: auto;
+	text-align: center;
+}
+
+h1 {
+	font-size: 3em;
+	margin-top: 50px;
+}
+
+img {
+	width: 80%;
+	height: auto;
+	margin: 50px 0;
+}
+
+p {
+	font-size: 1.2em;
+	margin-bottom: 50px;
+}
+
+h2 {
+	font-size: 2em;
+	margin-bottom: 50px;
+}
+
+button {
+	background-color: #0066cc;
+	color: #fff;
+	padding: 10px 20px;
+	font-size: 1.2em;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
